@@ -10,5 +10,5 @@ out vec4 FragColor;
 
 void main() {
     FragColor = texture(image, texcoord);
-    // Test
+    // Test 2
 }
